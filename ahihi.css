@@ -29,4 +29,22 @@ nav{width:1000px;
 		  line-height:30px;
 		  letter-spacing:2px;
 		  color:#000;}
-		  
+	p {
+	    
+		color: #F00;
+	}
+label{
+   color: #00F;
+}
+	
+	
+#ct { float: left;
+      width : 15%;
+}
+#cs { float: left;
+      width: 25%;
+}
+#ht { float: left;
+       width: 25%;
+	   }
+       		  
