@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	background-image:url(Picture/background.jpg);
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	font-family:"Times New Roman", Times, serif;
+}
+ header{
+	   width:1000px;
+	   margin:auto;
+	  }
+	 
+nav{width:1000px;
+	   height:30px;
+	   background:#FF0;
+	   margin:auto;
+	   }
+
+#c ul{ margin:0px;
+          padding:0px;
+       }
+#c ul li{ list-style:none;
+        float:left;
+		}
+#c ul li a{ text-decoration:none;
+          display:block;
+		  height:30px;
+		  line-height:30px;
+		  letter-spacing:2px;
+		  color:#000;}
+		  
