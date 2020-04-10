@@ -6,10 +6,7 @@ body{
 	background-size:100% 100%;
 	font-family:"Times New Roman", Times, serif;
 }
- header{
-	   width:1000px;
-	   margin:auto;
-	  }
+
 	 
 nav{width:1000px;
 	   height:30px;
@@ -34,7 +31,7 @@ nav{width:1000px;
 		color: #F00;
 	}
 label{
-   color: #00F;
+   color: #000;
 }
 	
 	
@@ -47,4 +44,4 @@ label{
 #ht { float: left;
        width: 25%;
 	   }
-       		  
+ 
